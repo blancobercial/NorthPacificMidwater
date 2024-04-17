@@ -9,5 +9,5 @@ QIIME2 and R scripts for the manuscript <i> Divergent patterns of zooplankton co
 
 Matthews, S.A., and Blanco-Bercial, L.
 
-In review at Molecular Ecology (March, 2023)
+https://doi.org/10.1002/ece3.10664 
 
